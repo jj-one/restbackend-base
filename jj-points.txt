@@ -1,0 +1,4 @@
+One row of the a table in the database when retreived is called Model Instance
+A collection of one or more rows of a table in the database is called QuerySet
+Serialization is the process of converting database model instances and querysets 
+to python's native data types.
